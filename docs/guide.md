@@ -1,6 +1,6 @@
 # Guide
 
-This guide explains how to use Demo Project in production.
+How to use Demo Project in production.
 
 ## Getting Started
 
